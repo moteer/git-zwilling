@@ -1,3 +1,4 @@
 ## git-zwilling
 
 - branching
+- merging
