@@ -2,3 +2,5 @@
 
 - branching
 - merging
+- rebasing
+    
